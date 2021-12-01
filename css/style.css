@@ -1,0 +1,6 @@
+.box {
+	background-color: silver;
+	height: 300px;
+	width: 300px;
+	overflow: scroll;
+}
